@@ -1,5 +1,3 @@
-<img width="1450" height="793" alt="WhatsApp Image 2026-06-04 at 6 23 25 PM" src="https://github.com/user-attachments/assets/e7432241-86a5-4451-8656-9377eeb79a3b" /># Sales Data Analysis
-
 ## Project Overview
 
 This project analyzes sales data using Python, Power BI, and Excel to identify business trends and generate actionable insights.
